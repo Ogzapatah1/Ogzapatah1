@@ -6,7 +6,7 @@
  Data Science, Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
- Ogzapatah@gmail.com 
+ Ogzapatah@hotmail.com
 
 <!---
 Ogzapatah1/Ogzapatah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
