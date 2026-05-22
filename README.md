@@ -3,8 +3,9 @@
  AI, learning to code, python 
  Data science, Analytics 
 - 🌱 I’m currently learning:
- Data Science, Python 
+ Data Science, Python, AI 
 - 💞️ I’m looking to collaborate on ...
+- I would like to explore the creating of small html applications, and also LUA games
 - 📫 How to reach me:
  Ogzapatah@hotmail.com
 
